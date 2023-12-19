@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - publications.qmd
+    - current_research.qmd
+
+website:
+  cookie-consent:
+    type: implied
+    style: simple
+    palette: light
+
+  back-to-top-navigation: true
+
+  title: "Mat(hew) Cieśla"
+
+  sidebar:
+    style: docked
+    border: true
+    pinned: true
+    background: "whitesmoke"
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Current Research"
+        href: current_research.qmd
+      - text: "Activities"
+        href: publications.qmd
+      - section: "Other Pages"
+        contents:
+          - text: "Northumbria University"
+            url: https://researchportal.northumbria.ac.uk/en/persons/mat-ciesla
+            target: _blank
+          - text: "Researchgate"
+            url: https://researchgate.net/profile/Mathew-Ciesla
+            target: _blank
+          - text: "ORCID"
+            url: https://orcid.org/0000-0003-0803-2085
+            target: _blank
+          - text: "Github"
+            url: https://github.com/ma-ciesla
+            target: _blank
+          - text: "Twitter"
+            url: https://twitter.com/m_ciesla
+            target: _blank
+  page-footer:  |
+    It's pronounced "Chay-Shluh"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    backgroundcolor: "whitesmoke"
+
+editor: visual
+

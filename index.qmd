@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+# THIS SITE IS UNDER CONSTRUCTION
+
+> ::: {#block style="color: black;"}
+> "Language is the most massive and inclusive art we know, a mountainous and anonymous work of unconscious generations."
+> :::
+
+#### -<font size = "2" font color = "#4E6C50"> Edward Sapir </font> <font size = "1" font color = "#4E6C50"> *linguist and anthropologist* </font> {.right}
