@@ -3,7 +3,7 @@
     "path": "~/ma-ciesla.github.io/publications.qmd",
     "project_path": "publications.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1256474556",
     "contents": "",
     "dirty": false,
     "created": 1703855071523.0,
@@ -21,11 +21,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1703857376,
+    "lastKnownWriteTime": 1703857614,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1703857376159,
+    "last_content_update": 1703857614031,
     "read_only": false,
     "read_only_alternatives": []
 }
