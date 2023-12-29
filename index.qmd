@@ -2,10 +2,26 @@
 title: ""
 ---
 
-# THIS SITE IS UNDER CONSTRUCTION
+<div div class = center>
 
-> ::: {#block style="color: black;"}
-> "Language is the most massive and inclusive art we know, a mountainous and anonymous work of unconscious generations."
-> :::
+# THIS WEBSITE IS UNDER CONSTRUCTION
 
-#### -<font size = "2" font color = "#4E6C50"> Edward Sapir </font> <font size = "1" font color = "#4E6C50"> *linguist and anthropologist* </font> {.right}
+**Please check back soon**
+
+</div>
+
+<div div class = margin>
+
+</div>
+
+![](web-development.png){fig-align="center" width="200"}
+
+<div class = center>
+
+<font size = "1">
+
+<a href="https://www.flaticon.com/free-icons/software-development" title="software development icons">Software development icons created by vectorsmarket15 - Flaticon</a>
+
+</font>
+
+</div>

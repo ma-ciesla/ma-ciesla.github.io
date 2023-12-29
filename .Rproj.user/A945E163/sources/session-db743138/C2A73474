@@ -1,14 +1,14 @@
 {
-    "id": "6BB6EC21",
+    "id": "C2A73474",
     "path": "~/ma-ciesla.github.io/current_research.qmd",
     "project_path": "current_research.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1702989957007.0,
+    "created": 1703855076579.0,
     "source_on_save": true,
-    "relative_order": 3,
+    "relative_order": 6,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "19:0"
+        "rmdVisualModeLocation": "139:222.2222442626953",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702989989,
+    "lastKnownWriteTime": 1703857455,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702989989928,
+    "last_content_update": 1703857455410,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -34,17 +34,11 @@ website:
         href: publications.qmd
       - section: "Other Pages"
         contents:
-          - text: "Northumbria University"
-            url: https://researchportal.northumbria.ac.uk/en/persons/mat-ciesla
-            target: _blank
           - text: "Researchgate"
             url: https://researchgate.net/profile/Mathew-Ciesla
             target: _blank
           - text: "ORCID"
             url: https://orcid.org/0000-0003-0803-2085
-            target: _blank
-          - text: "Github"
-            url: https://github.com/ma-ciesla
             target: _blank
           - text: "Twitter"
             url: https://twitter.com/m_ciesla
