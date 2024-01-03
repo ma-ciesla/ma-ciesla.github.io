@@ -2,26 +2,21 @@
 title: ""
 ---
 
-<div div class = center>
-
+::: {.center div=""}
 # THIS WEBSITE IS UNDER CONSTRUCTION
 
 **Please check back soon**
+:::
 
-</div>
-
-<div div class = margin>
-
-</div>
+::: {.margin div=""}
+:::
 
 ![](web-development.png){fig-align="center" width="200"}
 
-<div class = center>
-
+::: center
 <font size = "1">
 
 <a href="https://www.flaticon.com/free-icons/software-development" title="software development icons">Software development icons created by vectorsmarket15 - Flaticon</a>
 
 </font>
-
-</div>
+:::
