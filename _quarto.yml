@@ -13,9 +13,9 @@ website:
     style: simple
     palette: light
 
-  back-to-top-navigation: true
+  back-to-top-navigation: False
 
-  title: "Mat(hew) Cieśla"
+  title: "Mathew Cieśla"
 
   sidebar:
     style: docked
@@ -26,8 +26,6 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
       - text: "Current Research"
         href: current_research.qmd
       - text: "Activities"
@@ -44,7 +42,7 @@ website:
             url: https://twitter.com/m_ciesla
             target: _blank
   page-footer:  |
-    It's pronounced "Chay-Shluh"
+    t͡ɕɛɕla
 
 format:
   html:

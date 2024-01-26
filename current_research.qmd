@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: {.center div=""}
-# THIS WEBSITE IS UNDER CONSTRUCTION
+# THIS WEB PAGE IS UNDER CONSTRUCTION
 
 **Please check back soon**
 :::
