@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   render:
-    - home.qmd
+    - index.qmd
     - activities.qmd
     - current_research.qmd
 
@@ -24,7 +24,7 @@ website:
     collapse-level: 1
     contents:
       - text: "Home"
-        href: home.qmd
+        href: index.qmd
       - text: "Activities"
         href: activities.qmd
       - text: "Research"

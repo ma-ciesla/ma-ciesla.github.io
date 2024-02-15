@@ -3,11 +3,11 @@
     "path": "~/ma-ciesla.github.io/activities.qmd",
     "project_path": "activities.qmd",
     "type": "quarto_markdown",
-    "hash": "3803356889",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1707999196221.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 4,
     "properties": {
         "rmdVisualMode": "true",
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "55:111.46385192871094",
-        "cursorPosition": "52,0",
+        "cursorPosition": "6,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707999342,
+    "lastKnownWriteTime": 1708003791,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707999342204,
+    "last_content_update": 1708003791917,
     "read_only": false,
     "read_only_alternatives": []
 }
