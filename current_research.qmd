@@ -10,33 +10,7 @@ title: ""
 
 ## <font size = "4">Current Research</font>
 
-<font color = >
-
-<details>
-
-<summary><font size = "4" font color="black">Decoding Dialect Density</font></summary>
-
--   <p><font size = "2">This research aims to better understand and define dialect density as well as develop new method(s) for measuring dialect.</font></p>
-
-</details>
-
-<details>
-
-<summary><font size = "4" font color="black">Cross-Modal Effects with English-Spanish Bilinguals</font></summary>
-
--   <p><font size = "2">Collaboration lead by Dr. Katarzyna Jankowiak of Adam Mickiewicz University, Poznań, Poland with Dr. Anna Cieslicka and Dr. Roberto Heredia of Texas A&M International University, Laredo, USA.</font></p>
-
-</details>
-
-<details>
-
-<summary><font size = "4" font color="black">The Effects of Images and Orthography on L2 Acquisition</font></summary>
-
--   <p><font size = "2">Collaboration with Dr. Katarzyna Jankowiak (Adam Mickiewicz University, Poznań, Poland) and Dr. Efthymia Kapnoula (Basque Center for Cognition, Brain and Language, San Sebastian, Spain & Ikerbasque - Basque Foundation for Science, Bilbao, Spain) </font></p>
-
--   <p><font size = "2">Funded by a Fulbright Research Grant from the US and Polish Fulbright Commissions </font></p>
-
-</details>
+<font size = "2">MORE INFORMATION COMING SOON</font>
 
 ## <font size = "4">Past Research</font>
 
