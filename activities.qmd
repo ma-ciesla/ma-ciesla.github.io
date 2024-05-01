@@ -18,17 +18,17 @@ title: ""
 
 <font size = "2" font color = "black">
 
--   Psychonomics (2023), San Francisco, California; *Poster*
+-   Psychonomics (2023), San Francisco, California
 
 -   European Society of Cognitive Psychology (ESCOP [2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56"}), Porto, Portugal;
 
 -   Architectures and Mechanisms for Language Processing (AMLaP [2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56;"}), San Sebastian, Spain;
 
--   Young Linguists Meeting Poznań (2023), Poznań, Poland; *Workshop & Thematic Session*
+-   Young Linguists Meeting Poznań (2023), Poznań, Poland
 
--   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, Alabama; *Presentation*
+-   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, Alabama
 
--   University of Alabama URCA Conference (2019), Tuscaloosa, Alabama; *Presentation*
+-   University of Alabama URCA Conference (2019), Tuscaloosa, Alabama
 
 </font>
 
