@@ -18,11 +18,13 @@ title: ""
 
 <font size = "2" font color = "black">
 
+-   Architectures and Mechanisms for Language Processing (2024), Edinburgh, Scotland
+
 -   Psychonomics (2023), San Francisco, California
 
--   European Society of Cognitive Psychology (ESCOP [2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56"}), Porto, Portugal;
+-   European Society of Cognitive Psychology ([2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56"}), Porto, Portugal;
 
--   Architectures and Mechanisms for Language Processing (AMLaP [2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56;"}), San Sebastian, Spain;
+-   Architectures and Mechanisms for Language Processing ([2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56;"}), Donostia-San Sebastian, Spain
 
 -   Young Linguists Meeting Poznań (2023), Poznań, Poland
 
@@ -32,21 +34,13 @@ title: ""
 
 </font>
 
-## <font size = "4">Reviewing</font>
-
-<font size = "2" font color = "black">
-
--   Bilingualism: Language and Cognition
-
-</font>
-
 ## <font size = "4">Study Visits</font>
 
 <font size = "2" font color = "black">
 
 -   Faculty of English, Adam Mickiewicz University (2022-2023), Poznań, Poland
 
--   Basque Center on Cognition, Brain and Language, Spoken Language Research Group (2023), San Sebastian, Spain
+-   Basque Center on Cognition, Brain and Language, Spoken Language Research Group (2023), Donostia-San Sebastian, Spain
 
 </font>
 
@@ -57,5 +51,21 @@ title: ""
 -   Jülich Research Center, Institute for Neuroscience and Medicine (2019), Jülich, Germany; *Neuroimaging internship with Dr. Paola Mengotti*
 
 -   University of Cologne (2019), Cologne, Germany; *Spring School: Language and Music in Cognition*
+
+</font>
+
+## <font size = "4">Peer Reviewing</font>
+
+<font size = "2" font color = "black">
+
+-   Bilingualism: Language and Cognition
+
+</font>
+
+## <font size = "4">Teaching Experience </font>
+
+<font size="2" font color="black">
+
+-   Psychometrics and Individual Differences (Master's)
 
 </font>
