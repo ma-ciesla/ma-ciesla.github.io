@@ -8,10 +8,16 @@ title: ""
 
 <font size = "3">Mathew's research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D. work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font>
 
-## <font size = "4">Current Research</font>
+## <font size = "4">Current Projects</font>
 
-<font size = "2">MORE INFORMATION COMING SOON</font>
+<font size = "2">
+
+-   <font size = "4">Decoding Dialect Density - </font><font size = "2">Development of a new method for the measurement of dialect density using AI. <br>(This project is available in the OSF)</font>
+
+-   <font size = "4"> Cross Language Associative Priming - </font><font size = "2">Understanding how new bilinguals process interlingual homographs.</font>
+
+-   <font size = "4"> FLACON - </font><font size = "2">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font>
 
 ## <font size = "4">Past Research</font>
 
-<font size = "2">MORE INFORMATION COMING SOON</font>
+-   <font size = "4"> M2L2 - </font><font size = "2"> Effects of motor encoding on sign language acquisition in hearing adults<br>(read the article <a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">here</a>) </font>
