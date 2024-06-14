@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -36,16 +37,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -73,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
 cookieconsent.run({
   "notice_banner_type":"simple",
   "consent_type":"implied",
-  "palette":"light",
+  "palette":"dark",
   "language":"en",
   "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
   "notice_banner_reject_button_hide":false,
@@ -90,91 +91,45 @@ cookieconsent.run({
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked fullcontent">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./current_research.html">Research</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
-    </div>
-  </nav>
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Mathew Cieśla</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./activities.html"> 
+<span class="menu-text">Activities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./current_research.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Mathew Cieśla</a> 
-    </div>
-      </div>
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Home</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./activities.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Activities</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./current_research.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Research</span></a>
-  </div>
-</li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
- <span class="menu-text">Other Pages</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://researchgate.net/profile/Mathew-Ciesla" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
- <span class="menu-text">Researchgate</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://twitter.com/m_ciesla" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
- <span class="menu-text">Twitter</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://orcid.org/0000-0003-0803-2085" class="sidebar-item-text sidebar-link" target="&quot;_blank&quot;">
- <span class="menu-text">ORCID</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -187,17 +142,17 @@ cookieconsent.run({
 <h1>Research</h1>
 <section id="general-research-overview" class="level2">
 <h2 class="anchored" data-anchor-id="general-research-overview"><font size="4">General Research Overview</font></h2>
-<p><font size="3">Mathew’s research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D.&nbsp;work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font></p>
+<p><font size="3" font="" color="#ECF0F1">Mathew’s research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D.&nbsp;work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font></p>
 </section>
 <section id="current-projects" class="level2">
 <h2 class="anchored" data-anchor-id="current-projects"><font size="4">Current Projects</font></h2>
-<p><font size="2"></font></p><font size="2">
+<p><font size="2" font="" color="#ECF0F1"></font></p><font size="2" font="" color="#ECF0F1">
 <ul>
 <li><p><font size="4">Decoding Dialect Density - </font><font size="2">Development of a new method for the measurement of dialect density using AI. <br>(This project is available on the <a href="https://osf.io/gwe3k/" target="_blank">OSF</a>)</font></p></li>
 <li><p><font size="4"> Cross Language Associative Priming - </font><font size="2">Understanding how new bilinguals process interlingual homographs.</font></p></li>
 <li><p><font size="4"> FLACON - </font><font size="2">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font></p></li>
 </ul>
-</font></section><font size="2">
+</font></section><font size="2" font="" color="#ECF0F1">
 <section id="past-research" class="level2">
 <h2 class="anchored" data-anchor-id="past-research"><font size="4">Past Research</font></h2>
 <ul>
@@ -206,9 +161,9 @@ cookieconsent.run({
 
 
 </section>
-</font></section><font size="2">
+</font></section><font size="2" font="" color="#ECF0F1">
 
-</font></main><font size="2"> <!-- /main -->
+</font><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main><font size="2" font="" color="#ECF0F1"> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -591,14 +546,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</font></div><font size="2"> <!-- /content -->
+</font></div><font size="2" font="" color="#ECF0F1"> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>t͡ɕɛɕla</p>
+
 <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;

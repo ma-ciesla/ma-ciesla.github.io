@@ -6,25 +6,25 @@ title: ""
 
 ## <font size = "4">Publications</font>
 
-<font size = "2" font color=black>
+<font size = "2" font color=#ECF0F1>
 
 -   Cieśla, M., Jankowiak, K., Pozdniakov, M., Gruszecka, J., Kapnoula, E. (in prep.). Neural markers of initial foreign language learning: Comparing orthography- and image-based inputs.
 
--   Morett, L., Cieśla, M., Bray, M., Hughes-Berheim, S., Emmorey, K., ([2024](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D){style="color: #AA8B56;"}). Feeling signs: Motor encoding enhances sign language learning in hearing adults. *Studies in Second Language Acquisition*
+-   Morett, L., Cieśla, M., Bray, M., Hughes-Berheim, S., Emmorey, K., (<a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">2024</a>). Feeling signs: Motor encoding enhances sign language learning in hearing adults. *Studies in Second Language Acquisition*
 
 </font>
 
 ## <font size = "4">Conferences</font>
 
-<font size = "2" font color = "black">
+<font size = "2" font color = #ECF0F1>
 
 -   Architectures and Mechanisms for Language Processing (2024), Edinburgh, Scotland
 
 -   Psychonomics (2023), San Francisco, California
 
--   European Society of Cognitive Psychology ([2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56"}), Porto, Portugal;
+-   European Society of Cognitive Psychology (2023), Porto, Portugal;
 
--   Architectures and Mechanisms for Language Processing ([2023](https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents){style="color: #AA8B56;"}), Donostia-San Sebastian, Spain
+-   Architectures and Mechanisms for Language Processing (2023), Donostia-San Sebastian, Spain
 
 -   Young Linguists Meeting Poznań (2023), Poznań, Poland
 
@@ -36,7 +36,7 @@ title: ""
 
 ## <font size = "4">Study Visits</font>
 
-<font size = "2" font color = "black">
+<font size = "2" font color = #ECF0F1>
 
 -   Faculty of English, Adam Mickiewicz University (2022-2023), Poznań, Poland
 
@@ -46,7 +46,7 @@ title: ""
 
 ## <font size = "4">Education Visits</font>
 
-<font size="2" font color="black">
+<font size="2" font color=#ECF0F1>
 
 -   Jülich Research Center, Institute for Neuroscience and Medicine (2019), Jülich, Germany; *Neuroimaging internship with Dr. Paola Mengotti*
 
@@ -56,7 +56,7 @@ title: ""
 
 ## <font size = "4">Peer Reviewing</font>
 
-<font size = "2" font color = "black">
+<font size = "2" font color = #ECF0F1>
 
 -   Bilingualism: Language and Cognition
 
@@ -64,7 +64,7 @@ title: ""
 
 ## <font size = "4">Teaching Experience </font>
 
-<font size="2" font color="black">
+<font size="2" font color=#ECF0F1>
 
 -   Psychometrics and Individual Differences (Master's)
 

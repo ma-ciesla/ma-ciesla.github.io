@@ -6,11 +6,11 @@ title: ""
 
 ## <font size = "4">General Research Overview</font>
 
-<font size = "3">Mathew's research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D. work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font>
+<font size = "3" font color = #ECF0F1>Mathew's research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D. work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font>
 
 ## <font size = "4">Current Projects</font>
 
-<font size = "2">
+<font size = "2" font color = #ECF0F1>
 
 -   <font size = "4">Decoding Dialect Density - </font><font size = "2">Development of a new method for the measurement of dialect density using AI. <br>(This project is available on the <a href = "https://osf.io/gwe3k/" target = "_blank">OSF</a>)</font>
 

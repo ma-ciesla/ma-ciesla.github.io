@@ -2,17 +2,22 @@
 body{
   margin: auto;
 }
+
+website.title{
+  font-family: san-serif;
+  color = #ECF0F1;
+}
 h1 { text-align: center;
      margin-bottom: 20px;
-     color: #395144;
+     color: #a28e5e;
 }
-h2 { color: #4E6C50}
-u { text-decoration: underline }
+h2 { color: #647d5f}
+u { text-decoration: underlined }
 a {
-  color:black;
+  color:#ECF0F1;
 }
 a:hover {
-  color: #AA8B56
+  color: #a28e5e
 }
 ul li {
   margin: -5px;
@@ -32,13 +37,6 @@ ul li {
   border: 1px solid black;
 }
 
-.button:hover {
-  background-color: #C06014;
-  color: white;
-  border: 1px solid #C06014;
-}
-
-
 #block { margin-bottom: 5px;
            text-align: left;
            font-size: 20px;
@@ -48,3 +46,14 @@ ul li {
 .margin {margin-top: 80px}
 
 .small_margin{margin-top: -40px}
+
+.nav-link:hover{
+  color: #a28e5e;
+}
+.btn btn-link{
+  color: #647d5f;
+}
+.navbar-brand:hover {
+  color: #a28e5e;
+}
+
