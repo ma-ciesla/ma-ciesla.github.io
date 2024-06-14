@@ -4,7 +4,7 @@ title: ""
 
 # Home
 
-## <font size = "4">BIOGRAPHY </font>
+## <font size = "5">BIOGRAPHY </font>
 
 <!--image container start-->
 
@@ -24,9 +24,9 @@ title: ""
 
 </div>
 
-## <br><font size = "4">Research Interests</font>
+## <br><font size = "5">Research Interests</font>
 
-<font color = "#ECF0F1" font size = "2">
+<font color = "#ECF0F1" font size = "3">
 
 -   Late, second language acquisition
 
@@ -38,17 +38,17 @@ title: ""
 
 </font>
 
-## <font size = "4">Funding</font>
+## <font size = "5">Funding</font>
 
-<font size = "2" font color = "#ECF0F1">
+<font size = "3" font color = "#ECF0F1">
 
 -   Fulbright Independent Research Award- Sep. 2022 to Aug. 2023
 
 </font>
 
-## <font size = "4">AWARDS</font>
+## <font size = "5">Awards</font>
 
-<font size = "2" font color = "#ECF0F1">
+<font size = "3" font color = "#ECF0F1">
 
 -   Fulbright Independent Research Award - April 2022
 

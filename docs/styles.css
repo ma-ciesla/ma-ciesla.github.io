@@ -3,38 +3,30 @@ body{
   margin: auto;
 }
 
-website.title{
-  font-family: san-serif;
-  color = #ECF0F1;
-}
-h1 { text-align: center;
+h1 {
+  text-align: center;
      margin-bottom: 20px;
      color: #a28e5e;
 }
-h2 { color: #647d5f}
-u { text-decoration: underlined }
+
+h2 {
+  color: #647d5f;
+}
+
 a {
   color:#ECF0F1;
+  text-decoration: bold;
 }
 a:hover {
   color: #a28e5e
 }
+
 ul li {
   margin: -5px;
 }
 
-
 .right h4 { text-align: right;
             margin-top: -30px;
-}
-
-.button {
-  padding: 4px 4px;
-  transition-duration: 0.3s;
-  text-align: left;
-  font-size: 10;
-  display: inline-block;
-  border: 1px solid black;
 }
 
 #block { margin-bottom: 5px;
@@ -50,10 +42,11 @@ ul li {
 .nav-link:hover{
   color: #a28e5e;
 }
-.btn btn-link{
-  color: #647d5f;
-}
+
 .navbar-brand:hover {
   color: #a28e5e;
+}
+.navbar-nav .nav-link.active{
+  color: #647d5f;
 }
 
