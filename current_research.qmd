@@ -10,12 +10,12 @@ title: ""
 
 ## <font size = "5">Current Projects</font>
 
--   <font size = "4">Decoding Dialect Density - </font><font size = "3">Development of a new method for the measurement of dialect density using AI. </font><br><font size = "2">(This project is available on the <a href = "https://osf.io/gwe3k/" target = "_blank">OSF</a>)</font>
+-   <font size = "3"><b>Decoding Dialect Density</b> - </font><font size = "3">Development of a new method for the measurement of dialect density using AI. </font><br><font size = "2">(This project is available on the <a href = "https://osf.io/gwe3k/" target = "_blank">OSF</a>)</font>
 
--   <font size = "4"> Cross Language Associative Priming - </font><font size = "3">Understanding how new bilinguals process interlingual homographs.</font>
+-   <font size = "3"> <b>Cross Language Associative Priming</b> - </font><font size = "3">Understanding how new bilinguals process interlingual homographs.</font>
 
--   <font size = "4"> FLACON - </font><font size = "3">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font>
+-   <font size = "3"> <b>FLACON</b> - </font><font size = "3">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font>
 
-## <font size = "4">Past Research</font>
+## <font size = "5">Past Research</font>
 
--   <font size = "4"> M2L2 - </font><font size = "3"> Effects of motor encoding on sign language acquisition in hearing adults</font><br><font size = "2">(read the article <a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">here</a>) </font>
+-   <font size = "3"><b>M2L2</b> - </font><font size = "3"> Effects of motor encoding on sign language acquisition in hearing adults</font><br><font size = "2">(read the article <a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">here</a>) </font>
