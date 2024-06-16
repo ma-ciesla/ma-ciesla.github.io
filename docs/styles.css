@@ -52,3 +52,16 @@ ul li {
   color: #647d5f;
 }
 
+
+.dropdown-item:hover{
+  background-color: #647d5f;
+  border-radius: 15px;
+}
+.navbar .dropdown-item {
+  border-radius: 15px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+  color: #a28e5e;
+}
+
