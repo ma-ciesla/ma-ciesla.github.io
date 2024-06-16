@@ -1,6 +1,7 @@
 /* css styles */
 body{
   margin: auto;
+  color: #ECF0F1;
 }
 
 h1 {
@@ -15,10 +16,11 @@ h2 {
 
 a {
   color:#ECF0F1;
-  text-decoration: bold;
+  font-weight: bold;
 }
 a:hover {
-  color: #a28e5e
+  color: #a28e5e;
+  text-decoration: none;
 }
 
 ul li {

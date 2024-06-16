@@ -18,7 +18,7 @@ title: ""
 
 <div>
 
-<font size = 3px font color = "#ECF0F1" >Mathew (Mat) Cieśla received his BA (*cum laude*) in psycholinguistics with a minor in German language and philology from New College at the University of Alabama, Tuscaloosa, USA. In 2022, he received the prestigious Fulbright Award from the U.S. and Polish Fulbright Commissions to conduct research at Adam Mickiewicz University, Poznań. Here, he collaborated with <a href = "https://anglistyka.amu.edu.pl/en/staff-list/katarzyna-jankowiak" target = "_blank">Dr. Katarzyna Jankowiak</a> and <a href = "https://www.bcbl.eu/en/conocenos/equipo/efthymia-kapnoula" target ="_blank"> Dr. Efthymia Kapnoual</a> comparing neural responses to orthographic and image referents in early-stage second language acquisition. Currently, Mathew holds a position at Northumbria University, Newcastle-Upon-Tyne, UK as as a postgraduate researcher and demonstrator in the Department of Psychology. His Ph.D. work is supervised by <a href = "https://glennwilliams.me" target = "_blank">Dr. Glenn Williams</a> and co-supervised by <a href = "https://www.northumbria.ac.uk/about-us/our-staff/b/hazel-blythe/" target = "_blank">Dr. Hazel Blythe</a> and <a href = "https://www.abertay.ac.uk/staff-search/professor-vera-kempe/" target = "_blank">Dr. Vera Kempe</a>.
+Mathew (Mat) Cieśla received his BA (*cum laude*) in psycholinguistics with a minor in German language and philology from New College at the University of Alabama, Tuscaloosa, USA. In 2022, he received the prestigious Fulbright Award from the U.S. and Polish Fulbright Commissions to conduct research at Adam Mickiewicz University, Poznań with Dr. Katarzyna Jankowiak and Dr. Efthymia Kapnoual. Presently, Mathew holds a position at Northumbria University, Newcastle-Upon-Tyne, UK as as a postgraduate researcher and demonstrator in the Department of Psychology. His Ph.D. work involving dialect density and the effects of dialect on primary language education is supervised by Dr. Glenn Williams and co-supervised by Dr. Hazel Blythe and Dr. Vera Kempe.
 
 </font>
 
@@ -26,7 +26,7 @@ title: ""
 
 ## <br><font size = "5">Research Interests</font>
 
-<font color = "#ECF0F1" font size = "3">
+<font size = "3">
 
 -   Late, second language acquisition
 
@@ -40,7 +40,7 @@ title: ""
 
 ## <font size = "5">Funding</font>
 
-<font size = "3" font color = "#ECF0F1">
+<font size = "3">
 
 -   Fulbright Independent Research Award- Sep. 2022 to Aug. 2023
 
@@ -48,7 +48,7 @@ title: ""
 
 ## <font size = "5">Awards</font>
 
-<font size = "3" font color = "#ECF0F1">
+<font size = "3">
 
 -   Fulbright Independent Research Award - April 2022
 

@@ -6,7 +6,7 @@ title: ""
 
 ## <font size = "5">Publications</font>
 
-<font size = "3" font color=#ECF0F1>
+<font size = "3">
 
 -   Cieśla, M., Jankowiak, K., Pozdniakov, M., Gruszecka, J., Kapnoula, E. (in prep.). Neural markers of initial foreign language learning: Comparing orthography- and image-based inputs.
 
@@ -16,7 +16,7 @@ title: ""
 
 ## <font size = "5">Conferences</font>
 
-<font size = "3" font color = #ECF0F1>
+<font size = "3">
 
 -   Architectures and Mechanisms for Language Processing (2024), Edinburgh, Scotland
 
@@ -36,7 +36,7 @@ title: ""
 
 ## <font size = "5">Study Visits</font>
 
-<font size = "3" font color = #ECF0F1>
+<font size = "3">
 
 -   Faculty of English, Adam Mickiewicz University (2022-2023), Poznań, Poland
 
@@ -46,7 +46,7 @@ title: ""
 
 ## <font size = "5">Education Visits</font>
 
-<font size="3" font color=#ECF0F1>
+<font size="3">
 
 -   Jülich Research Center, Institute for Neuroscience and Medicine (2019), Jülich, Germany; *Neuroimaging internship with Dr. Paola Mengotti*
 
@@ -56,7 +56,7 @@ title: ""
 
 ## <font size = "5">Peer Reviewing</font>
 
-<font size = "3" font color = #ECF0F1>
+<font size = "3">
 
 -   Bilingualism: Language and Cognition
 
@@ -64,7 +64,7 @@ title: ""
 
 ## <font size = "5">Teaching Experience </font>
 
-<font size="3" font color=#ECF0F1>
+<font size="3">
 
 -   Psychometrics and Individual Differences (Master's)
 

@@ -6,7 +6,7 @@ title: ""
 
 ## <font size = "5">General Research Overview</font>
 
-<font size = "3" font color = #ECF0F1>Mathew's research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D. work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font>
+<font size = "3">Mathew's research largely focuses on aspects of lexico-semantic development in late, second language learners utilising electroencephalography (EEG) and event-related potential (ERP) techniques. More recently and as part of his Ph.D. work, Mathew has begun research involving bidialectals (those who speak and are exposed to two or more dialects), and the effects of dialect on primary language education in children. </font>
 
 ## <font size = "5">Current Projects</font>
 
@@ -14,7 +14,7 @@ title: ""
 
 -   <font size = "3"> <b>Cross Language Associative Priming</b> - </font><font size = "3">Understanding how new bilinguals process interlingual homographs.</font>
 
--   <font size = "3"> <b>FLACON</b> - </font><font size = "3">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font>
+-   <font size = "3"> <b>FLACON</b> - </font><font size = "3">Exploring the effects of image and orthographic referents on the early stages of late, second language acquisition. </font><br><font size = "2">(preliminary data of this study was presented at AMLaP and ESCOP 2023, and can be found <a href = "https://www.researchgate.net/publication/374551543_Comparing_L2_Word_Learning_Using_Orthographic_vs_Image_Referents" target = "_blank">here</a>)</font>
 
 ## <font size = "5">Past Research</font>
 
