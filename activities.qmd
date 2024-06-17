@@ -22,7 +22,7 @@ title: ""
 
 -   Psychonomics (2023), San Francisco, California
 
--   European Society of Cognitive Psychology (2023), Porto, Portugal;
+-   European Society of Cognitive Psychology (2023), Porto, Portugal
 
 -   Architectures and Mechanisms for Language Processing (2023), Donostia-San Sebastian, Spain
 

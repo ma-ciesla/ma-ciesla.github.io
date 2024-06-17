@@ -15,7 +15,7 @@ website:
   back-to-top-navigation: True
   title: Mathew Cieśla
   navbar:
-    background: "#202020"
+    background: "#333533"
     foreground: "#ECF0F1"#
     search: false
     left:
@@ -43,7 +43,7 @@ format:
     css: styles.css
     toc: false
     color: "white"
-    backgroundcolor: "#202020"
+    backgroundcolor: "#333533"
     
   
 
