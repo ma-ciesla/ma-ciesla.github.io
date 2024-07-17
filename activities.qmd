@@ -8,19 +8,23 @@ title: ""
 
 <font size = "3">
 
--   Cieśla, M., Jankowiak, K., Pozdniakov, M., Gruszecka, J., Kapnoula, E. (in prep.). Neural markers of initial foreign language learning: Comparing orthography- and image-based inputs.
+-   Cieśla, M., Jankowiak, K. (in prep.). Orthographic and Image Inputs in Second Language Learning: From Psycholinguistics to Classroom.
+
+-   Cieśla, M., Kapnoula, E. C., Pozdniakov, M., Gruszecka, J., Jankowiak, K. (submitted). The Impact of Orthography Versus Images on Foreign Language Learning: Evidence From Behavioral and Neural Markers. *Language Learning*.
 
 -   Morett, L., Cieśla, M., Bray, M., Hughes-Berheim, S., Emmorey, K., (<a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">2024</a>). Feeling signs: Motor encoding enhances sign language learning in hearing adults. *Studies in Second Language Acquisition*
 
 </font>
 
-## <font size = "5">Conferences</font>
+## <font size = "5">Conferences / Talks</font>
 
 <font size = "3">
 
+-   Psychonomics (2024), New York City, USA
+
 -   Architectures and Mechanisms for Language Processing (2024), Edinburgh, Scotland
 
--   Psychonomics (2023), San Francisco, California
+-   Psychonomics (2023), San Francisco, USA
 
 -   European Society of Cognitive Psychology (2023), Porto, Portugal
 
@@ -28,9 +32,9 @@ title: ""
 
 -   Young Linguists Meeting Poznań (2023), Poznań, Poland
 
--   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, Alabama
+-   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, USA
 
--   University of Alabama URCA Conference (2019), Tuscaloosa, Alabama
+-   University of Alabama URCA Conference (2019), Tuscaloosa, USA
 
 </font>
 
@@ -66,6 +70,6 @@ title: ""
 
 <font size="3">
 
--   Psychometrics and Individual Differences (Master's)
+-   Psychometrics and Individual Differences (MSc)
 
 </font>
