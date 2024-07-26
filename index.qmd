@@ -9,7 +9,7 @@ title: ""
 <!--image container start-->
 
 ::: box
-![](profile_2.jpg){style="float:left; margin: 5px;" width="234"}
+![](prof_2.jpg){style="float:left; margin: 5px;" width="261"}
 :::
 
 <!--image container end-->
