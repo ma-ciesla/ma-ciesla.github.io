@@ -66,10 +66,12 @@ title: ""
 
 </font>
 
-## <font size = "5">Teaching Experience </font>
+## <font size = "5">Teaching / Demonstrating Experience </font>
 
 <font size="3">
 
--   Psychometrics and Individual Differences (MSc)
+-   Psychometrics and Individual Differences
+-   Advanced Experimental Methods
+-   Quantitative Statistical Methods
 
 </font>
