@@ -71,7 +71,9 @@ title: ""
 <font size="3">
 
 -   Psychometrics and Individual Differences
+
 -   Advanced Experimental Methods
+
 -   Quantitative Statistical Methods
 
 </font>
