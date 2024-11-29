@@ -20,21 +20,23 @@ title: ""
 
 <font size = "3">
 
--   Psychonomics (2024), New York City, USA
+-   Psychonomics (2024), New York, USA; *poster*
 
--   Architectures and Mechanisms for Language Processing (2024), Edinburgh, Scotland
+-   Auditory Processing and Cognition Annual Meeting (2024), New York, USA; *talk*
 
--   Psychonomics (2023), San Francisco, USA
+-   Architectures and Mechanisms for Language Processing (2024), Edinburgh, UK; *poster*
 
--   European Society of Cognitive Psychology (2023), Porto, Portugal
+-   Psychonomics (2023), San Francisco, USA; *poster*
 
--   Architectures and Mechanisms for Language Processing (2023), Donostia-San Sebastian, Spain
+-   European Society of Cognitive Psychology (2023), Porto, Portugal; *poster*
 
--   Young Linguists Meeting Poznań (2023), Poznań, Poland
+-   Architectures and Mechanisms for Language Processing (2023), Donostia-San Sebastian, Spain; *poster*
 
--   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, USA
+-   Young Linguists Meeting Poznań (2023), Poznań, Poland; *workshop*
 
--   University of Alabama URCA Conference (2019), Tuscaloosa, USA
+-   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, USA; *talk*
+
+-   University of Alabama URCA Conference (2019), Tuscaloosa, USA; *talk*
 
 </font>
 

@@ -10,7 +10,7 @@ title: ""
 
 ## <font size = "5">Current Projects</font>
 
--   <font size = "3"><b>Decoding Dialect Density</b> - </font><font size = "3">Development of a new method for the measurement of dialect density using AI. </font><br><font size = "2">(This project is available on the <a href = "https://osf.io/gwe3k/" target = "_blank">OSF</a>)</font>
+-   <font size = "3"><b>Decoding Dialect Density</b> - </font><font size = "3">Psychometric development for the measurement of dialect density. </font><br><font size = "2">(This project is available on the <a href = "https://osf.io/gwe3k/" target = "_blank">OSF</a>)</font>
 
 -   <font size = "3"> <b>Cross Language Associative Priming</b> - </font><font size = "3">Understanding how new bilinguals process interlingual homographs.</font>
 
