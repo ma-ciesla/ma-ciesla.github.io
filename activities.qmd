@@ -16,6 +16,16 @@ title: ""
 
 </font>
 
+## <font size = "5">Preregistrations</font>
+
+<font size = "3">
+
+-   Cieśla, M., Blythe, H., Kempe, V., Williams, G.P. (<a href = "https://doi.org/10.17605/OSF.IO/JW645" target = "_blank">2025</a>). Dialect Effects on Contrastive vs. Mainstream Word Reading in Dialect-Speaking Adults. *OSF*
+
+-   Cieśla, M., Blythe, H., Kempe, V., Grugan, M., Myachykov, A., Williams, G.P. (<a href = "https://doi.org/10.17605/OSF.IO/G7TQE" target = "_blank">2024</a>). Dialect Density. *OSF*
+
+</font>
+
 ## <font size = "5">Conferences / Talks</font>
 
 <font size = "3">
@@ -79,5 +89,7 @@ title: ""
 -   Advanced Experimental Methods
 
 -   Quantitative Statistical Methods
+
+-   Qualitative Research Methods
 
 </font>
