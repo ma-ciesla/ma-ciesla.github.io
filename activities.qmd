@@ -8,7 +8,7 @@ title: ""
 
 <font size = "3">
 
--   Cieśla, M., Kapnoula, E. C., Pozdniakov, M., Gruszecka, J., Jankowiak, K. (in press). The Impact of Orthography Versus Images on Foreign Language Learning: Evidence From Behavioral and Neural Markers. *Bilingualism: Language and Cognition*
+-   Cieśla, M., Kapnoula, E. C., Pozdniakov, M., Gruszecka, J., Jankowiak, K. (<a href = "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/impact-of-orthography-versus-images-on-foreign-language-learning-evidence-from-behavioral-and-neural-markers/3BCD137A3C88327937628A9894234D32" target = "_blank">2025</a>). The Impact of Orthography Versus Images on Foreign Language Learning: Evidence From Behavioral and Neural Markers. *Bilingualism: Language and Cognition*
 
 -   Morett, L., Cieśla, M., Bray, M., Hughes-Berheim, S., Emmorey, K., (<a href = "https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/feeling-signs-motor-encoding-enhances-sign-language-learning-in-hearing-adults/007AF08B353F15DD7E8298B92001D05D" target = "_blank">2024</a>). Feeling signs: Motor encoding enhances sign language learning in hearing adults. *Studies in Second Language Acquisition*
 
