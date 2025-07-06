@@ -27,15 +27,19 @@ website:
         href: current_research.qmd
       - text: "more"
         menu:
-          - text: "researchgate"
+          - text: "ResearchGate"
             href: "https://www.researchgate.net/profile/Mathew-Ciesla"
             target: _blank
-          - text: "orcid"
-            href: "https://orcid.org/0000-0003-0803-2085"
+          - text: "Bluesky"
+            href: "https://bsky.app/profile/mciesla.bsky.social"
             target: _blank
-          - text: "twitter"
-            href: "https://twitter.com/m_ciesla"
+          - text: "Linkedin"
+            href: "https://www.linkedin.com/in/mathew-cieśla-8b57642b5/"
             target: _blank
+          - text: "Northumbria University"
+            href: "https://researchportal.northumbria.ac.uk/en/persons/mathew-cieśla"
+            target: _blank
+
   
 format:
   html:

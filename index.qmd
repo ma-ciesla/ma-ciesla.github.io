@@ -18,7 +18,7 @@ title: ""
 
 <div>
 
-Mathew Cieśla received his BA (*cum laude*) in psycholinguistics with a minor in German language and philology from New College at the University of Alabama, Tuscaloosa, USA. In 2022, he received the Fulbright Award from the Polish-U.S. Fulbright Commission to conduct research at the Faculty of English, Adam Mickiewicz University, in Poznań, Poland with Dr. Katarzyna Jankowiak and Dr. Efthymia Kapnoual of the Basque Center for Cognition, Brain and Language. Presently, Mathew holds a position at Northumbria University, Newcastle-Upon-Tyne, UK as as a postgraduate researcher and demonstrator in the Department of Psychology. His Ph.D. work involving dialect density and the effects of dialect on primary language education is supervised by Dr. Glenn Williams and co-supervised by Dr. Hazel Blythe and Dr. Vera Kempe.
+Mathew Cieśla received his BA in Psycholinguistics (*cum laude*) with a minor in German Language and Philology from New College, University of Alabama (Tuscaloosa, USA). In 2022, he was awarded a Fulbright Scholarship from the Polish-U.S. Fulbright Commission to conduct research at the Faculty of English, Adam Mickiewicz University (Poznań, Poland). Presently, Mathew is a Ph.D. candidate (postgraduate researcher) in the Department of Psychology at Northumbria University (Newcastle, UK). His doctoral research explores the effects of dialect on language and literacy development in children, specifically in the context of primary language education. In addition to his research, Mathew teaches as a demonstrator for modules in quantitative research methods and statistics. He is supervised by <a href = "https://glennwilliams.me" target = "_blank">Dr. Glenn Williams</a>.
 
 </font>
 
@@ -28,21 +28,15 @@ Mathew Cieśla received his BA (*cum laude*) in psycholinguistics with a minor i
 
 <font size = "3">
 
+-   Dialect effects on primary language education and literacy
+
+-   Understanding bidialectalism through bilingualism
+
+-   Statistical methodologies incl. Bayesian methods
+
 -   Late, second language acquisition
 
 -   Lexico-semantic development in late, second language learners
-
--   Dialect effects on primary language education
-
--   Bidialectal-Bilingual comparisons
-
-</font>
-
-## <font size = "5">Funding</font>
-
-<font size = "3">
-
--   Fulbright Independent Research Award- Sep. 2022 to Aug. 2023
 
 </font>
 
@@ -57,5 +51,13 @@ Mathew Cieśla received his BA (*cum laude*) in psycholinguistics with a minor i
 -   Randall Outstanding Undergraduate Research Award - March 2022
 
 -   Undergraduate Research, Scholarship, and Creative Activity First Place Award for Social Sciences- April 2019
+
+</font>
+
+## <font size = "5">Funding</font>
+
+<font size = "3">
+
+-   Fulbright Independent Research Award- Sep. 2022 to Aug. 2023
 
 </font>

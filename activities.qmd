@@ -28,6 +28,8 @@ title: ""
 
 <font size = "3">
 
+-   Dept. of Psychology Postgraduate Research Conference (2025), Newcastle, UK; *organiser, co-chair, talk*
+
 -   Eurasian Congress of Linguists (2024), online; *talk*
 
 -   Psychonomics (2024), New York, USA; *poster*
@@ -43,10 +45,6 @@ title: ""
 -   Architectures and Mechanisms for Language Processing (2023), Donostia-San Sebastian, Spain; *poster*
 
 -   Young Linguists Meeting Poznań (2023), Poznań, Poland; *workshop*
-
--   Alabama Speech Language Pathologist Informational Seminar (2020), Tuscaloosa, USA; *talk*
-
--   University of Alabama URCA Conference (2019), Tuscaloosa, USA; *talk*
 
 </font>
 
