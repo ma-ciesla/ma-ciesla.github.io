@@ -28,15 +28,11 @@ Mathew Cieśla received his BA in Psycholinguistics (*cum laude*) with a minor i
 
 <font size = "3">
 
--   Dialect effects on primary language education and literacy
-
--   Understanding bidialectalism through bilingualism
-
--   Statistical methodologies incl. Bayesian methods
-
--   Late, second language acquisition
+-   Dialect effects on primary language literacy
 
 -   Lexico-semantic development in late, second language learners
+
+-   Advanced statistical methods, including Bayesian methodologies
 
 </font>
 
